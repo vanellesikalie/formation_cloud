@@ -20,24 +20,46 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "DQTechnical",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "DemoRoutines",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
     "version" : "Latest",
     "type" : "routine"
   }, {
     "id" : "GetRandomPhoneNum",
     "version" : "Latest",
     "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_RdEQcEguEfCZ1fTKNZ0VJQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-HC8UEhAEfCbQsWpb9NoZw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dggfUEeNEfCPyuQY_5WwkA - metadata_customer",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_uQg98Eg_EfCbQsWpb9NoZw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-HC8UEhAEfCbQsWpb9NoZw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1fJSYEhAEfCbQsWpb9NoZw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1fJSYEhAEfCbQsWpb9NoZw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
