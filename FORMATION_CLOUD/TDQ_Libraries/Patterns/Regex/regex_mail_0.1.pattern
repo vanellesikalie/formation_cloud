@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.domain.pattern:Pattern xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dataquality.domain.pattern="http://dataquality.domain.pattern" xmi:id="_j7J8kEhTEfCbQsWpb9NoZw" name="regex_mail">
+  <taggedValue xmi:id="_j7J8kUhTEfCbQsWpb9NoZw" tag="Status" value="development"/>
+  <taggedValue xmi:id="_j7J8kkhTEfCbQsWpb9NoZw" tag="Author" value="vnsikalie@trial35573.eu.talend.com"/>
+  <taggedValue xmi:id="_j7J8k0hTEfCbQsWpb9NoZw" tag="Purpose"/>
+  <taggedValue xmi:id="_j7J8lEhTEfCbQsWpb9NoZw" tag="Description"/>
+  <taggedValue xmi:id="_j7J8lUhTEfCbQsWpb9NoZw" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_j7J8lkhTEfCbQsWpb9NoZw" tag="Validation_Status" value="true"/>
+  <components xsi:type="dataquality.domain.pattern:RegularExpression" xmi:id="_j7J8l0hTEfCbQsWpb9NoZw" expressionType="REGEXP">
+    <expression xmi:id="_j7J8mEhTEfCbQsWpb9NoZw" body="'^[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]@[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]\.[a-z][a-z][a-z]$'" language="Java"/>
+  </components>
+</dataquality.domain.pattern:Pattern>

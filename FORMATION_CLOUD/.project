@@ -10,4 +10,11 @@
 		<nature>org.talend.core.talendnature</nature>
 		<nature>com.oaklandsw.transform.runtime.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>.test_customer-20250613-1448-00012.pdf</name>
+			<type>1</type>
+			<location>C:/Users/PCSPECIALIST-14/Documents/test_customer-20250613-1448-00012.pdf</location>
+		</link>
+	</linkedResources>
 </projectDescription>
